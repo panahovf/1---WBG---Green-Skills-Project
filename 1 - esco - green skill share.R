@@ -111,20 +111,32 @@ sum(df_esco_occup_unit$num_blocks == 6) ### --> 0
 
 ### df_esco_occup 5 digits
 # get codes at 5 digit unit level
-df_esco_occup_unit$code_unit <- sub("^([^.]*\\.[^.]*).*", "\\1", df_esco_occup_unit$code)
+# keep only lowest level occupations
+
+# 1 remove isco groups in level down
+df_esco_occup_hierarchy2 <- df_esco_occup_hierarchy %>% filter(df_esco_occup_hierarchy$conceptType != "ISCOGroup")
+
+
+# 2 select only occupations that are level down, and dont show up as a roll up occupation
+df_esco_occup_hierarchy2 <- df_esco_occup_hierarchy2 %>% filter(!(df_esco_occup_hierarchy2$conceptUri %in% 
+                                                                    df_esco_occup_hierarchy2$broaderUri)) %>% subset()
+
+
+# 3 filter occup units to lowest levels only
+df_esco_occup_unit <- df_esco_occup_unit %>% filter(df_esco_occup_unit$conceptUri %in% df_esco_occup_hierarchy2$conceptUri) %>% subset()
 
 
 # for skills add the occupation code
-df_esco_skills_occup$code_unit <- df_esco_occup_unit$code_unit[match(df_esco_skills_occup$occupationUri, 
-                                                                     df_esco_occup_unit$conceptUri)]
+df_esco_skills_occup$code <- df_esco_occup_unit$code[match(df_esco_skills_occup$occupationUri, 
+                                                           df_esco_occup_unit$conceptUri)]
 
 
-# get 3 digit minor
-df_esco_skills_occup$code_minor <- substr(df_esco_skills_occup$code_unit,1,3)
+# filter skills X occup --- keeps only occupations at lowest level
+df_esco_skills_occup <- df_esco_skills_occup %>% filter(df_esco_skills_occup$occupationUri %in% df_esco_occup_unit$conceptUri)
 
 
-# get 1 digit
-df_esco_skills_occup$code_major <- substr(df_esco_skills_occup$code_unit, 1,1)
+# remove
+rm(df_esco_occup_hierarchy, df_esco_occup_hierarchy2)
 
 
 
@@ -137,6 +149,10 @@ df_esco_skills_occup$code_major <- substr(df_esco_skills_occup$code_unit, 1,1)
 ###############
 ### 3 digit ###
 ###############
+
+# get 3 digit minor
+df_esco_skills_occup$code_minor <- substr(df_esco_skills_occup$code,1,3)
+
 
 # summarize by occup group
 df_green_minor <- df_esco_skills_occup %>% group_by(code_minor, occupationUri, category) %>% summarise(count = n_distinct(skillUri))
@@ -160,8 +176,6 @@ df_green_minor$green_share <- df_green_minor$green / (df_green_minor$general + d
 
 # summarize
 df_green_minor <- df_green_minor %>% group_by(code_minor) %>% summarise(green_share = mean(green_share))
-
-
 
 
 
