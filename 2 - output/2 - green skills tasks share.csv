@@ -2,123 +2,123 @@
 "1",1,"011",0.00297619047619048,98,1,6,"Commissioned Armed Forces Officers",0,0
 "2",2,"021",0,54,0,6,"Non-commissioned Armed Forces Officers",0,0
 "3",3,"031",0.00454545454545455,133,1,15,"Armed Forces Occupations, Other Ranks",0,0
-"4",4,"111",0.00226244343891403,244,1,5,"Legislators and Senior Officials",0.00980392156862745,2
-"5",5,"112",0.0456767607930399,184,10,12,"Managing Directors and Chief Executives",0.0235294117647059,2
-"6",6,"121",0.0733576715110078,1005,89,46,"Business Services and Administration Managers",0.1146110056926,62
-"7",7,"122",0.0252132226392021,684,16,130,"Sales, Marketing and Development Managers",0.0882352941176471,41
+"4",4,"111",0.00240384615384615,241,1,5,"Legislators and Senior Officials",0.00980392156862745,2
+"5",5,"112",0.0517818099213448,169,10,12,"Managing Directors and Chief Executives",0.0235294117647059,2
+"6",6,"121",0.0779384689596859,746,80,34,"Business Services and Administration Managers",0.1146110056926,62
+"7",7,"122",0.0284808170541883,513,12,78,"Sales, Marketing and Development Managers",0.0882352941176471,41
 "8",8,"131",0.159027277977698,168,26,11,"Production Managers in Agriculture, Forestry and Fisheries",0,0
-"9",9,"132",0.0336381038966307,1162,100,71,"Manufacturing, Mining, Construction and Distribution Managers",0.0191219760631525,38
-"10",10,"133",0.0197368421052632,321,9,194,"Information and Communications Technology Service managers",0.0909090909090909,14
-"11",11,"134",0.0288751288257474,1142,58,88,"Professional Services Managers",0.0287698412698413,26
+"9",9,"132",0.0319619455769163,935,90,47,"Manufacturing, Mining, Construction and Distribution Managers",0.0191219760631525,38
+"10",10,"133",0.0236842105263158,286,9,165,"Information and Communications Technology Service managers",0.0909090909090909,14
+"11",11,"134",0.0299881744779602,1006,57,80,"Professional Services Managers",0.0287698412698413,26
 "12",12,"141",0.0987076648841355,113,13,7,"Hotel and Restaurant Managers",0,0
-"13",13,"142",0.0335899626214037,393,11,28,"Retail and Wholesale Trade Managers",0,0
-"14",14,"143",0.0354555745532089,433,10,27,"Other Services Managers",0,0
-"15",15,"211",0.098369961084879,480,49,67,"Physical and Earth Science Professionals",0.188864087301587,155
-"16",16,"212",0.00453514739229025,185,2,80,"Mathematicians, Actuaries and Statisticians",0,0
-"17",17,"213",0.256736300218529,956,189,70,"Life Science Professionals",0.104230712926365,102
-"18",18,"214",0.111544515516207,2013,271,301,"Engineering Professionals (excluding Electrotechnology)",0.217631187432052,502
-"19",19,"215",0.0497289479742163,675,58,254,"Electrotechnology Engineers",0.105925043045193,66
-"20",20,"216",0.037760226709076,933,52,276,"Architects, Planners, Surveyors and Designers",0.0476553078927918,43
+"13",13,"142",0.0322865483811445,390,11,28,"Retail and Wholesale Trade Managers",0,0
+"14",14,"143",0.0380358313461905,414,10,27,"Other Services Managers",0,0
+"15",15,"211",0.103771143349095,449,46,62,"Physical and Earth Science Professionals",0.188864087301587,155
+"16",16,"212",0.00529100529100529,170,2,71,"Mathematicians, Actuaries and Statisticians",0,0
+"17",17,"213",0.254130715341964,903,186,70,"Life Science Professionals",0.104230712926365,102
+"18",18,"214",0.108428996800026,1773,251,206,"Engineering Professionals (excluding Electrotechnology)",0.217631187432052,502
+"19",19,"215",0.0502219688142403,620,45,227,"Electrotechnology Engineers",0.105925043045193,66
+"20",20,"216",0.0303620438817641,845,33,271,"Architects, Planners, Surveyors and Designers",0.0476553078927918,43
 "21",21,"221",0,106,0,38,"Medical Doctors",0,0
 "22",22,"222",0,171,0,4,"Nursing and Midwifery Professionals",0,0
-"23",23,"223",0.00253164556962025,158,2,1,"Traditional and Complementary Medicine Professionals",0,0
-"24",24,"225",0.120343084862964,201,20,34,"Veterinarians",0,0
-"25",25,"226",0.0275706753232675,893,19,52,"Other Health Professionals",0,0
-"26",26,"231",0.00306053110568346,671,10,108,"University and Higher Education Teachers",0,0
-"27",27,"232",0.0205247020016472,543,22,37,"Vocational education teachers",0,0
-"28",28,"233",0.00720780613401427,216,5,20,"Secondary Education Teachers",0,0
-"29",29,"234",0,86,0,1,"Primary School and Early Childhood Teachers",0,0
-"30",30,"235",0.000509943906170321,566,1,124,"Other Teaching Professionals",0.00645161290322581,4
-"31",31,"241",0.0153342508856382,419,5,10,"Finance Professionals",0.0521978021978022,42
-"32",32,"242",0.0301871161624647,730,41,41,"Administration Professionals",0.0738986354775829,55
-"33",33,"243",0.0218457327253863,711,26,130,"Sales, Marketing and Public Relations Professionals",0.077046783625731,76
-"34",34,"251",0.00583090379008746,619,6,445,"Software and Applications Developers and Analysts",0.0208333333333333,18
-"35",35,"252",0,447,0,354,"Database and Network Professionals",0,0
-"36",36,"261",0.00914363545423286,313,6,18,"Legal Professionals",0.0105820105820106,4
+"23",23,"223",0,105,0,1,"Traditional and Complementary Medicine Professionals",0,0
+"24",24,"225",0.125104666076533,195,20,34,"Veterinarians",0,0
+"25",25,"226",0.0277268702057706,816,19,47,"Other Health Professionals",0,0
+"26",26,"231",0.00313008863081263,668,10,108,"University and Higher Education Teachers",0,0
+"27",27,"232",0.0210144008423591,541,22,37,"Vocational education teachers",0,0
+"28",28,"233",0.00631021280916459,215,5,20,"Secondary Education Teachers",0,0
+"29",29,"234",0,71,0,1,"Primary School and Early Childhood Teachers",0,0
+"30",30,"235",0.000539083557951482,561,1,123,"Other Teaching Professionals",0.00645161290322581,4
+"31",31,"241",0.0134169623915301,387,5,10,"Finance Professionals",0.0521978021978022,42
+"32",32,"242",0.0293655405976106,726,40,40,"Administration Professionals",0.0738986354775829,55
+"33",33,"243",0.0234108330068187,695,26,128,"Sales, Marketing and Public Relations Professionals",0.077046783625731,76
+"34",34,"251",0.00634920634920635,610,6,439,"Software and Applications Developers and Analysts",0.0208333333333333,18
+"35",35,"252",0,442,0,351,"Database and Network Professionals",0,0
+"36",36,"261",0.00761364595465978,302,6,18,"Legal Professionals",0.0105820105820106,4
 "37",37,"262",0.00245700245700246,235,1,59,"Librarians, Archivists and Curators",0,0
-"38",38,"263",0.00234057556280674,845,7,63,"Social and Religious Professionals",0,0
-"39",39,"264",0,488,0,114,"Authors, Journalists and Linguists",0,0
-"40",40,"265",0.00405385607126113,688,7,82,"Creative and Performing Artists",0,0
-"41",41,"311",0.0769398207866782,1751,161,225,"Physical and Engineering Science Technicians",0.0906354853393059,231
-"42",42,"312",0.0507271806381331,986,56,45,"Mining, Manufacturing and Construction Supervisors",0.0548275862068966,54
-"43",43,"313",0.161164753362266,542,91,58,"Process Control Technicians",0.119229562707824,85
-"44",44,"314",0.179203732227539,315,51,13,"Life Science Technicians and Related Associate Professionals",0,0
-"45",45,"315",0.0340171610427892,517,21,53,"Ship and Aircraft Controllers and Technicians",0.0192307692307692,9
-"46",46,"321",0.00835580541462894,260,3,9,"Medical and Pharmaceutical Technicians",0,0
+"38",38,"263",0.00231823972937108,760,7,58,"Social and Religious Professionals",0,0
+"39",39,"264",0,460,0,109,"Authors, Journalists and Linguists",0,0
+"40",40,"265",0.00448369565217391,644,7,77,"Creative and Performing Artists",0,0
+"41",41,"311",0.0726137020559973,1694,159,224,"Physical and Engineering Science Technicians",0.0906354853393059,231
+"42",42,"312",0.0500373718746073,921,51,42,"Mining, Manufacturing and Construction Supervisors",0.0548275862068966,54
+"43",43,"313",0.167100561893204,519,89,56,"Process Control Technicians",0.119229562707824,85
+"44",44,"314",0.194268222965285,239,48,11,"Life Science Technicians and Related Associate Professionals",0,0
+"45",45,"315",0.0352179593717911,502,21,52,"Ship and Aircraft Controllers and Technicians",0.0192307692307692,9
+"46",46,"321",0.00940028109145756,234,3,8,"Medical and Pharmaceutical Technicians",0,0
 "47",47,"322",0,49,0,1,"Nursing and Midwifery Associate Professionals",0,0
 "48",48,"323",0.0408163265306122,49,2,0,"Traditional and Complementary Medicine Associate Professionals",0,0
-"49",49,"324",0.0576059150836621,117,4,2,"Veterinary Technicians and Assistants",0,0
-"50",50,"325",0.0714395157595786,803,48,34,"Other Health Associate Professionals",0,0
-"51",51,"331",0.00490318568390648,377,2,23,"Financial and Mathematical Associate Professionals",0,0
-"52",52,"332",0.0229797413352072,512,34,29,"Sales and Purchasing Agents and Brokers",0.027281746031746,55
-"53",53,"333",0.0145761417220197,597,12,22,"Business Services Agents",0.0032258064516129,6
-"54",54,"334",0,490,0,80,"Administrative and Specialized Secretaries",0,0
-"55",55,"335",0.0395037832537833,371,21,12,"Government Regulatory  Associate Professionals",0,0
-"56",56,"341",0.0030735905391956,375,3,11,"Legal, Social and Religious Associate Professionals",0,0
-"57",57,"342",0.0304308575104937,309,10,8,"Sports and Fitness Workers",0,0
-"58",58,"343",0.0137841388411127,817,14,123,"Artistic, Cultural and Culinary Associate Professionals",0,0
+"49",49,"324",0.0619842409575374,110,4,2,"Veterinary Technicians and Assistants",0,0
+"50",50,"325",0.0585812114373768,734,43,31,"Other Health Associate Professionals",0,0
+"51",51,"331",0.00484951300619503,369,2,22,"Financial and Mathematical Associate Professionals",0,0
+"52",52,"332",0.0241201307790068,444,34,22,"Sales and Purchasing Agents and Brokers",0.027281746031746,55
+"53",53,"333",0.0108114360638287,537,4,17,"Business Services Agents",0.0032258064516129,6
+"54",54,"334",0,482,0,78,"Administrative and Specialized Secretaries",0,0
+"55",55,"335",0.0434541615791616,357,21,12,"Government Regulatory  Associate Professionals",0,0
+"56",56,"341",0.00328556230051943,352,3,10,"Legal, Social and Religious Associate Professionals",0,0
+"57",57,"342",0.0266880577439584,271,10,8,"Sports and Fitness Workers",0,0
+"58",58,"343",0.0104954352616089,792,14,120,"Artistic, Cultural and Culinary Associate Professionals",0,0
 "59",59,"351",0,250,0,200,"Information and Communications Technology Operations and User Support Technicians",0,0
-"60",60,"352",0.0103393630179344,304,1,117,"Telecommunications and Broadcasting Technicians",0,0
-"61",61,"411",0,69,0,14,"General Office Clerks",0,0
+"60",60,"352",0.0111346986346986,303,1,116,"Telecommunications and Broadcasting Technicians",0,0
+"61",61,"411",0,22,0,2,"General Office Clerks",0,0
 "62",62,"412",0,41,0,8,"Secretaries (general)",0,0
 "63",63,"413",0,62,0,40,"Keyboard Operators",0,0
-"64",64,"421",0.00183150183150183,213,1,15,"Tellers, Money Collectors and Related Clerks",0,0
-"65",65,"422",0.0324920725280909,395,11,55,"Client Information Workers",0,0
-"66",66,"431",0,196,0,10,"Numerical Clerks",0,0
-"67",67,"432",0.0507505331523257,521,21,28,"Material Recording and Transport Clerks",0.0350146627565982,18
+"64",64,"421",0.0019723865877712,205,1,15,"Tellers, Money Collectors and Related Clerks",0,0
+"65",65,"422",0.04104261793022,351,11,45,"Client Information Workers",0,0
+"66",66,"431",0,181,0,10,"Numerical Clerks",0,0
+"67",67,"432",0.0527024767351074,504,21,27,"Material Recording and Transport Clerks",0.0350146627565982,18
 "68",68,"441",0.00543478260869565,174,1,22,"Other Clerical Support Workers",0,0
-"69",69,"511",0.0934758970336047,226,29,11,"Travel Attendants, Conductors and Guides",0,0
-"70",70,"512",0.0329443089063582,110,5,0,"Cooks",0,0
-"71",71,"513",0.00676767676767677,163,3,1,"Waiters and Bartenders",0,0
-"72",72,"514",0.00669359797420148,289,1,4,"Hairdressers, Beauticians and Related Workers",0,0
-"73",73,"515",0.0387979087379387,200,15,6,"Building and Housekeeping Supervisors",0.0166666666666667,4
-"74",74,"516",0.0425501930484633,391,13,14,"Other Personal Services Workers",0,0
+"69",69,"511",0.102828011471022,212,27,6,"Travel Attendants, Conductors and Guides",0,0
+"70",70,"512",0.0361803861329478,108,5,0,"Cooks",0,0
+"71",71,"513",0.00649350649350649,145,2,1,"Waiters and Bartenders",0,0
+"72",72,"514",0.00711194784758907,287,1,4,"Hairdressers, Beauticians and Related Workers",0,0
+"73",73,"515",0.0412087912087912,162,13,6,"Building and Housekeeping Supervisors",0.0166666666666667,4
+"74",74,"516",0.039447460592931,370,13,10,"Other Personal Services Workers",0,0
 "75",75,"521",0,62,0,1,"Street and Market Salespersons",0,0
-"76",76,"522",0.0045292165018303,498,7,31,"Shop Aalespersons",0,0
+"76",76,"522",0.00440371762740184,453,7,30,"Shop Aalespersons",0,0
 "77",77,"523",0,86,0,3,"Cashiers and Ticket Clerks",0,0
-"78",78,"524",0.0041958041958042,222,1,11,"Other Sales Workers",0,0
-"79",79,"531",0.0123414547552479,174,1,3,"Child Care Workers and Teachers' Aides",0,0
-"80",80,"532",0.0111111111111111,188,2,7,"Personal Care Workers in Health Services",0,0
-"81",81,"541",0.0460234296147609,445,27,13,"Protective Services Workers",0,0
-"82",82,"611",0.323140842622773,261,53,4,"Market Gardeners and Crop Growers",0.0350877192982456,10
+"78",78,"524",0.0048582995951417,222,1,11,"Other Sales Workers",0,0
+"79",79,"531",0.00988130988130988,174,1,3,"Child Care Workers and Teachers' Aides",0,0
+"80",80,"532",0.0133333333333333,175,2,5,"Personal Care Workers in Health Services",0,0
+"81",81,"541",0.0436465336679673,429,27,10,"Protective Services Workers",0,0
+"82",82,"611",0.326652859757277,250,53,4,"Market Gardeners and Crop Growers",0.0350877192982456,10
 "83",83,"612",0.0874381153918874,118,7,1,"Animal Producers",0,0
 "84",84,"613",0.352240896358543,48,19,1,"Mixed Crop and Animal Producers",0,0
 "85",85,"621",0.578947368421053,38,22,1,"Forestry and Related Workers",0,0
-"86",86,"622",0.0812414707949873,377,38,16,"Fishery Workers, Hunters and Trappers",0,0
-"87",87,"711",0.0635586232449465,343,18,5,"Building Frame and Related Trades Workers",0.0110294117647059,6
+"86",86,"622",0.0805969627873804,370,36,16,"Fishery Workers, Hunters and Trappers",0,0
+"87",87,"711",0.066255526993674,333,18,5,"Building Frame and Related Trades Workers",0.0110294117647059,6
 "88",88,"712",0.0922921077950731,439,56,12,"Building Finishers and Related Trades Workers",0.130059523809524,71
 "89",89,"713",0.170666648312203,248,33,6,"Painters, Building Structure Cleaners and Related Trades Workers",0.222222222222222,42
-"90",90,"721",0.0115530143918275,499,8,38,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",0.0104895104895105,6
-"91",91,"722",0.00552356901461761,484,4,71,"Blacksmiths, Toolmakers and Related Trades Workers",0,0
-"92",92,"723",0.0259613443624286,517,16,24,"Machinery Mechanics and Repairers",0.0198135198135198,13
-"93",93,"731",0.0212532843657358,746,13,22,"Handicraft Workers",0,0
-"94",94,"732",0.00078064012490242,248,1,48,"Printing Trades Workers",0,0
-"95",95,"741",0.0741348441171676,396,36,41,"Electrical Equipment Installers and Repairers",0.0952380952380952,50
-"96",96,"742",0.0205033145484436,349,7,162,"Electronics and Telecommunications Installers and Repairers",0,0
-"97",97,"751",0.0403184716273743,410,10,4,"Food Processing and Related Trades Workers",0,0
+"90",90,"721",0.0102481335090031,465,8,38,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",0.0104895104895105,6
+"91",91,"722",0.00590893429470721,420,4,29,"Blacksmiths, Toolmakers and Related Trades Workers",0,0
+"92",92,"723",0.0257309697070879,503,15,24,"Machinery Mechanics and Repairers",0.0198135198135198,13
+"93",93,"731",0.0217025820118704,740,13,22,"Handicraft Workers",0,0
+"94",94,"732",0.000819672131147541,247,1,47,"Printing Trades Workers",0,0
+"95",95,"741",0.0719298542845263,390,36,40,"Electrical Equipment Installers and Repairers",0.0952380952380952,50
+"96",96,"742",0.0209693012841056,297,6,113,"Electronics and Telecommunications Installers and Repairers",0,0
+"97",97,"751",0.0395348886367838,405,10,4,"Food Processing and Related Trades Workers",0,0
 "98",98,"752",0.0395747247316044,238,7,9,"Wood Treaters, Cabinet-makers and Related Trades Workers",0,0
-"99",99,"753",0.0376683500405244,376,7,33,"Garment and Related Trades Workers",0.00593434343434343,6
-"100",100,"754",0.0405370205647449,583,29,34,"Other Craft and Related Workers",0.0495430495430495,39
+"99",99,"753",0.0361201120688787,366,7,33,"Garment and Related Trades Workers",0.00593434343434343,6
+"100",100,"754",0.0351464507342879,539,25,33,"Other Craft and Related Workers",0.0495430495430495,39
 "101",101,"811",0.0238235909453711,317,9,3,"Mining and Mineral Processing Plant Operators",0.016,6
 "102",102,"812",0.0119624569590324,265,4,10,"Metal Processing and Finishing Plant Operators",0,0
-"103",103,"813",0.0691959011116606,363,13,11,"Chemical and Photographic Products Plant and Machine Operators",0.00547665459946162,3
-"104",104,"814",0.020544787818561,419,9,12,"Rubber, Plastic and Paper Products Machine Operators",0,0
-"105",105,"815",0.0288181059458711,363,7,16,"Textile, Fur and Leather Products Machine Operators",0,0
+"103",103,"813",0.0673779939086334,346,12,11,"Chemical and Photographic Products Plant and Machine Operators",0.00547665459946162,3
+"104",104,"814",0.0200549283013154,399,9,11,"Rubber, Plastic and Paper Products Machine Operators",0,0
+"105",105,"815",0.030778357418554,321,6,14,"Textile, Fur and Leather Products Machine Operators",0,0
 "106",106,"816",0.041142219000287,482,13,3,"Food and Related Products Machine Operators",0.0130952380952381,11
-"107",107,"817",0.0721828260452234,201,11,6,"Wood Processing and Papermaking Plant Operators",0.00560224089635854,2
-"108",108,"818",0.055918913516678,330,13,8,"Other Stationary Plant and Machine Operators",0,0
-"109",109,"821",0.0244467538174711,598,18,53,"Assemblers",0.00946065428824049,9
+"107",107,"817",0.0750355756403284,201,11,6,"Wood Processing and Papermaking Plant Operators",0.00560224089635854,2
+"108",108,"818",0.0508849247371331,328,12,8,"Other Stationary Plant and Machine Operators",0,0
+"109",109,"821",0.0243521511727583,577,17,49,"Assemblers",0.00946065428824049,9
 "110",110,"831",0,117,0,4,"Locomotive Engine Drivers and Related Workers",0,0
 "111",111,"832",0,131,0,9,"Car, Van and Motorcycle Drivers",0,0
-"112",112,"833",0.0640076830009827,213,16,5,"Heavy Truck and Bus Drivers",0.119354838709677,22
+"112",112,"833",0.0675513084439381,210,15,5,"Heavy Truck and Bus Drivers",0.119354838709677,22
 "113",113,"834",0.0545670358132578,300,20,13,"Mobile Plant Operators",0.00740740740740741,2
 "114",114,"835",0.029710463803901,174,6,8,"Ships' Deck Crews and Related Workers",0,0
 "115",115,"911",0.0504004360364836,136,9,0,"Domestic, Hotel and Office Cleaners and Helpers",0,0
 "116",116,"912",0.0573015049940121,154,7,1,"Vehicle, Window, Laundry and Other Hand Cleaning Workers",0,0
 "117",117,"921",0.141061993916512,328,45,7,"Agricultural, Forestry and Fishery Labourers",0,0
-"118",118,"931",0.0593287605969577,207,11,1,"Mining and Construction Labourers",0.0416666666666667,12
+"118",118,"931",0.064551873215437,201,11,1,"Mining and Construction Labourers",0.0416666666666667,12
 "119",119,"932",0.033102766798419,76,3,2,"Manufacturing Labourers",0,0
-"120",120,"933",0.023862050248139,273,10,15,"Transport and Storage Labourers",0.00879765395894428,3
+"120",120,"933",0.0246108729979698,245,9,14,"Transport and Storage Labourers",0.00879765395894428,3
 "121",121,"941",0.0692837941628264,57,3,0,"Food Preparation Assistants",0,0
 "122",122,"951",0,12,0,1,"Street and Related Service Workers",0,0
 "123",123,"952",0,57,0,2,"Street Vendors (excluding Food)",0,0
